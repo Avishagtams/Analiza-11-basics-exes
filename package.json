@@ -1,0 +1,12 @@
+{
+  "name": "js-basics-exercises",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A656 FullStack - JavaScript basics exercises, one task per branch with tests",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
