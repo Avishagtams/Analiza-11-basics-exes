@@ -23,7 +23,7 @@
 
 // Task 5: Print All Even Numbers Between Two Given Values
 // set variable for two numbers: start and end. Print all even numbers between them, inclusive.
-
+//
 // Task 6: Reverse a 4-Digit Number
 // set variable for a 4-digit number and print its digits in reverse.
 // Example: Input: 1234 -> Output: 4321
