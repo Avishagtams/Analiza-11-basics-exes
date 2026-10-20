@@ -8,3 +8,9 @@ let end = 10; // INPUT
 
 // write your code below this line
 
+for(let i=start;i<=end;i++){
+    if(i%2==0){
+        console.log(i)
+    }
+}
+
