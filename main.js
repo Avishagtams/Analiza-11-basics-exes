@@ -8,3 +8,10 @@ let number = 10045; // INPUT
 
 // write your code below this line
 
+let sum=0;
+while(number!=0){
+    number=Math.floor(number/10);
+    sum+=1;
+
+}
+console.log(sum)
